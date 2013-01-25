@@ -83,8 +83,6 @@
 		5A3DECEF1556CD4A00865DFF /* Calculator */ = {
 			isa = PBXGroup;
 			children = (
-				5A3DECF81556CD4A00865DFF /* CalculatorAppDelegate.h */,
-				5A3DECF91556CD4A00865DFF /* CalculatorAppDelegate.m */,
 				5A3DECFB1556CD4A00865DFF /* MainStoryboard.storyboard */,
 				5A3DED061556D82100865DFF /* CalculatorBrain.h */,
 				5A3DED071556D82100865DFF /* CalculatorBrain.m */,
@@ -98,6 +96,8 @@
 		5A3DECF01556CD4A00865DFF /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				5A3DECF81556CD4A00865DFF /* CalculatorAppDelegate.h */,
+				5A3DECF91556CD4A00865DFF /* CalculatorAppDelegate.m */,
 				5A3DECF11556CD4A00865DFF /* Calculator-Info.plist */,
 				5A3DECF21556CD4A00865DFF /* InfoPlist.strings */,
 				5A3DECF51556CD4A00865DFF /* main.m */,
