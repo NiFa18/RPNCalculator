@@ -17,8 +17,6 @@
 
 @implementation CalculatorBrain
 
-@synthesize operandStack = _operandStack;
-
 -(NSMutableArray *)operandStack
 {
     if (_operandStack == nil) 

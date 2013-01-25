@@ -18,10 +18,6 @@
 
 @implementation CalculatorViewController
 
-@synthesize display = _display;
-@synthesize userIsInTheMiddleOfEnteringANumber = _userIsInTheMiddleOfEnteringANumber;
-@synthesize brain = _brain;
-
 -(CalculatorBrain *)brain
 {
     if (!_brain) {
