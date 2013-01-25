@@ -53,4 +53,8 @@
     NSString *resultString = [NSString stringWithFormat:@"%g", result];
     self.display.text = resultString;
 }
+- (IBAction)clear
+{
+    self.display.text = [NSString stringWithFormat:@"0"];
+}
 @end
